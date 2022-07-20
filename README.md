@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Fullstack Development</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonwandera&label=Profile%20views&color=0e75b6&style=flat" alt="simonwandera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonwandera" alt="simonwandera" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simonwandera&label=Profile%20views&color=0e75b6&style=flat" alt="simonwandera" /> </p>
 
 - 🌱 I’m currently learning **Java Enterprise Edition**
 
