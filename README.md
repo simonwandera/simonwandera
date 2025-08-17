@@ -1,47 +1,123 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Simon Wandera</h1>
-<h3 align="center">Building scalable systems with Java, Spring Boot & Angular</h3>
+# Hi there, I'm Simon Wandera 👋
 
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+## Senior Java Developer | Full-Stack Engineer | Tech Enthusiast
 
----
-
-### 👨🏽‍💻 About Me  
-- 💡 Passionate **Fullstack Developer** with a strong focus on **backend engineering & cloud-ready applications**.  
-- 🔭 Currently building **enterprise-grade systems** using **Java (8–21), Spring Boot, Angular, and Tailwind CSS**.  
-- 🌱 Exploring **microservices, RxJS, and cloud-native development (AWS, Docker, Kubernetes)**.  
-- 👨🏽‍🏫 Actively mentoring interns in **Java and Spring Boot**, helping new developers grow.  
-- ⚡ Fun fact: I play chess and love solving complex problems (both on and off the board).  
+> Passionate about building scalable enterprise applications and exploring cutting-edge technologies
 
 ---
 
-### 🌐 Connect with me  
-<p align="left">
-<a href="https://twitter.com/simonmuruka" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/simon-wandera-b27b22215" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/simon_heavens" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### 🚀 About Me
+
+- 💼 **Currently:** Working with **Spring Boot**, **Microservices**, and **Enterprise Java**
+- 🔭 **Exploring:** Cloud-native architectures, DevOps practices, and AI/ML integrations
+- 🎯 **Focus Areas:** Backend architecture, API design, data engineering, and system optimization
+- 💡 **Side Interests:** Chess strategy, open-source contributions, and tech mentoring
+- 📫 **Reach me at:** [wanderasimoh@gmail.com](mailto:wanderasimoh@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack  
-**Core:**  
-`Java (8–21)` · `Spring Boot` · `Angular` · `Tailwind CSS` · `PostgreSQL` · `MySQL`  
+### 🛠️ Tech Stack
 
-**DevOps & Tools:**  
-`Docker` · `Kubernetes` · `CI/CD (Jenkins, Maven, GitHub Actions)` · `AWS`  
+#### **Backend & Core**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Other Skills:**  
-`Python` · `Bash` · `Linux` · `Agile/Scrum` · `Microservices`  
+#### **Frontend & UI**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### **Data & Analytics**
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonwandera&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonwandera&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwandera&theme=radical" alt="Streak Stats"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonwandera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwandera&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwandera&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🎯 Enterprise Applications
+- **Microservices Architecture** - Scalable Spring Boot services with JWT authentication
+- **Real-time Data Pipeline** - Kafka + Spring Boot + PostgreSQL for high-throughput processing
+- **API Gateway Solution** - Custom routing and rate limiting with Spring Cloud Gateway
+
+#### 🚀 Full-Stack Solutions
+- **E-commerce Platform** - React + TypeScript frontend with Java/Spring backend
+- **Analytics Dashboard** - Next.js dashboard with real-time metrics and data visualization
+- **Chess Analysis Tool** - Personal project combining chess strategy with data analysis
+
+---
+
+### 🌱 Current Learning Path
+
+```java
+public class ContinuousLearning {
+    private List<String> currentFocus = Arrays.asList(
+        "Spring Boot 3.x and Virtual Threads",
+        "Reactive Programming with WebFlux",
+        "Cloud-native patterns with GraalVM",
+        "Event-driven architectures",
+        "AI/ML integration in Java applications"
+    );
+}
+```
+
+---
+
+### 📈 Professional Highlights
+
+- ✅ **5+ years** of enterprise Java development
+- ✅ **Microservices** architecture design and implementation
+- ✅ **High-performance** applications handling 10K+ concurrent users
+- ✅ **DevOps** practices with CI/CD pipeline automation
+- ✅ **Team Leadership** and code review expertise
+- ✅ **Open Source** contributor to Java ecosystem
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="left">
+  <a href="https://linkedin.com/in/simon-wandera-b27b22215" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/simonmuruka" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:wanderasimoh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=simonwandera&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
