@@ -1,4 +1,4 @@
-# hi 👋
+# Hi 👋
 
 ## Senior Software Engineer | Cloud Enthusiast | Problem Solver
 
