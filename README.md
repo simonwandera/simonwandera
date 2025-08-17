@@ -21,6 +21,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### **Frontend & UI**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Sencha ExtJS](https://img.shields.io/badge/Sencha_ExtJS-86BC40?style=for-the-badge&logo=sencha&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -61,8 +63,9 @@
 - **API Gateway Solution** - Custom routing and rate limiting with Spring Cloud Gateway
 
 #### 🚀 Full-Stack Solutions
-- **E-commerce Platform** - React + TypeScript frontend with Java/Spring backend
-- **Analytics Dashboard** - Next.js dashboard with real-time metrics and data visualization
+- **E-commerce Platform** - Angular + TypeScript frontend with Java/Spring backend
+- **Analytics Dashboard** - React/Next.js dashboard with real-time metrics and data visualization
+- **Enterprise Management System** - Sencha ExtJS frontend with Spring Boot services
 - **Chess Analysis Tool** - Personal project combining chess strategy with data analysis
 
 ---
@@ -74,43 +77,9 @@ public class ContinuousLearning {
     private List<String> currentFocus = Arrays.asList(
         "Spring Boot 3.x and Virtual Threads",
         "Reactive Programming with WebFlux",
+        "Advanced Angular 19 patterns",
         "Cloud-native patterns with GraalVM",
         "Event-driven architectures",
-        "AI/ML integration in Java applications"
+        "AI/ML integration in enterprise apps"
     );
 }
-```
-
----
-
-### 📈 Professional Highlights
-
-- ✅ **5+ years** of enterprise Java development
-- ✅ **Microservices** architecture design and implementation
-- ✅ **High-performance** applications handling 10K+ concurrent users
-- ✅ **DevOps** practices with CI/CD pipeline automation
-- ✅ **Team Leadership** and code review expertise
-- ✅ **Open Source** contributor to Java ecosystem
-
----
-
-### 🤝 Let's Connect!
-
-<div align="left">
-  <a href="https://linkedin.com/in/simon-wandera-b27b22215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/simonmuruka" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=simonwandera&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
