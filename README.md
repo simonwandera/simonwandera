@@ -1,7 +1,5 @@
 ## Senior Software Engineer | Cloud Enthusiast | Problem Solver
 
-> I'm a passionate full-stack developer with expertise in building scalable web applications and exploring the frontiers of data engineering. Currently diving deep into cloud-native architectures and distributed systems.
-
 ---
 
 ### 🚀 About Me
